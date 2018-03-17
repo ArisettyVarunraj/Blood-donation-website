@@ -1,2 +1,8 @@
 # Blood-donation-website
-front end using HTML, CSS and backend is using mysql  and serverside script is php and java script
+languages used:HTML, CSS, JAVA SCRIPT, PHP, MYSQL
+
+admin panel details
+USER NAME: varun
+PASSWORD: varun
+
+EXECUTABLE USING XAMPP ONLY
